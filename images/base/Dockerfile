@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER M0stH8 <m0sth8@gmail.com>
+MAINTAINER rabbots https://github.com/rabbots/eyes-core
 
 
 RUN mkdir /build

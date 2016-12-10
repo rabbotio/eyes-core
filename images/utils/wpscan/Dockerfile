@@ -1,4 +1,4 @@
-FROM barbudo/ruby
+FROM rabbots/ruby
 
 ENV WPSCAN_VERSION a8c55dd
 

@@ -1,4 +1,4 @@
-FROM m0sth8/base
+FROM rabbots/base
 
 RUN apt-get update \
 	&& /build/enable_repos.sh \
