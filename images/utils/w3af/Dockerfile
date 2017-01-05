@@ -1,4 +1,4 @@
-FROM rabbots/python
+FROM rabbot/python
 
 ADD . /w3af
 RUN /w3af/install.sh

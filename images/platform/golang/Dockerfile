@@ -1,4 +1,4 @@
-FROM rabbots/base:latest
+FROM rabbot/base:latest
 
 
 ENV GOLANG_VERSION 1.3.3

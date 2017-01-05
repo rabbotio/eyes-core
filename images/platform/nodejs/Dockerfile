@@ -1,4 +1,4 @@
-FROM rabbots/base
+FROM rabbot/base
 
 RUN apt-get update \
 	&& /build/enable_repos.sh \
