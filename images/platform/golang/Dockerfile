@@ -1,4 +1,4 @@
-FROM m0sth8/base:latest
+FROM rabbots/base:latest
 
 
 ENV GOLANG_VERSION 1.3.3

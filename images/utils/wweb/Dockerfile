@@ -1,4 +1,4 @@
-FROM barbudo/ruby
+FROM rabbots/ruby
 
 
 ADD . /wweb

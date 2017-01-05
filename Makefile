@@ -1,4 +1,4 @@
-NAME = m0sth8
+NAME = rabbots
 BASE_NAME = $(NAME)/base
 BASE_PATH = images/base
 BASE_VERSION = 0.0.5
