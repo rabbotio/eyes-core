@@ -1,4 +1,4 @@
-FROM rabbots/ruby
+FROM rabbot/ruby
 
 
 ADD . /wweb

@@ -1,4 +1,4 @@
-FROM rabbots/base:latest
+FROM rabbot/base:latest
 
 
 RUN apt-get update \

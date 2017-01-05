@@ -1,4 +1,4 @@
-FROM rabbots/ruby
+FROM rabbot/ruby
 
 ENV WPSCAN_VERSION a8c55dd
 
