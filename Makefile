@@ -1,4 +1,4 @@
-NAME = rabbot
+NAME = rabbotio
 BASE_NAME = $(NAME)/base
 BASE_PATH = images/base
 BASE_VERSION = 0.0.5

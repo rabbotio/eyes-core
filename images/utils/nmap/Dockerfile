@@ -1,4 +1,4 @@
-FROM rabbot/base:latest
+FROM rabbotio/base:latest
 
 ADD . /nmap
 
