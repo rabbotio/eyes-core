@@ -1,4 +1,4 @@
-FROM rabbot/phantomjs
+FROM rabbotio/phantomjs
 
 USER app
 RUN mkdir ~/scripts

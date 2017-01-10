@@ -5,7 +5,7 @@ Docker images for security audit
 
 Base image is based on ubuntu:14.04
 
-All builded images are available in docker registry https://hub.docker.com/u/rabbot/
+All builded images are available in docker registry https://hub.docker.com/u/rabbotio/
 
 #### Make commands
 
@@ -39,10 +39,12 @@ Build utils or platform, mark version as latest ans push to registry
 
 Scan host with nmap
 
-`docker run --rm -t -i rabbot/nmap -A github.com`
+`docker run --rm -t -i rabbotio/nmap -A github.com`
 
 Analyze technologies and web frameworks
 
-`docker run --rm -t -i rabbot/wappalyzer https://github.com`
+`docker run --rm -t -i rabbotio/wappalyzer https://github.com`
 
-`docker run --rm -t -i rabbot/wweb https://github.com`
+`docker run --rm -t -i rabbotio/wweb https://github.com`
+
+`docker run --rm -t rabbotio/retirejs http://example.com`

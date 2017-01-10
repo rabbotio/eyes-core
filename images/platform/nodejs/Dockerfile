@@ -1,4 +1,4 @@
-FROM rabbot/base
+FROM rabbotio/base:latest
 
 RUN apt-get update \
 	&& /build/enable_repos.sh \
