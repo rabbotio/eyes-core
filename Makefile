@@ -1,7 +1,7 @@
 NAME = rabbotio
 BASE_NAME = $(NAME)/base
 BASE_PATH = images/base
-BASE_VERSION = 0.0.5
+BASE_VERSION = 0.0.6
 UTILS_PATH = images/utils
 PLATFORM_PATH = images/platform
 

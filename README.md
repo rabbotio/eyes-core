@@ -46,3 +46,5 @@ Analyze technologies and web frameworks
 `docker run --rm -t -i rabbotio/wappalyzer https://github.com`
 
 `docker run --rm -t -i rabbotio/wweb https://github.com`
+
+`docker run --rm -t rabbotio/retirejs http://example.com`
