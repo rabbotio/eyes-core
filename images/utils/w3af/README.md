@@ -1,13 +1,12 @@
-To audit sqli and xss of site example.com:
-1. create a w3af script in /path/on/host
-2. run the following script
+#### To audit sqli and xss of site `example.com`
+ 1. Create `/path/on/host/script.w3af`
+ 1. Run the following script
 
 ```
 docker run -v /path/on/host:/share rabbotio/w3af -s /share/script.w3af
-
 ```
 
-example of script.w3af
+#### Example of `script.w3af`
 ```
 
 plugins
