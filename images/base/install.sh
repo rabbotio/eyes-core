@@ -7,7 +7,7 @@ set -x
 
 apt-get update
 
-$minimal_apt_get_install curl ca-certificates
+$minimal_apt_get_install sudo curl ca-certificates
 
 # create app user
 /build/prepare.sh

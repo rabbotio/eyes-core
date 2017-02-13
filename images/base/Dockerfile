@@ -1,4 +1,4 @@
-FROM ubuntu:17.04
+FROM ubuntu:14.04
 MAINTAINER rabbot.io https://github.com/rabbotio/eyes-core
 
 
