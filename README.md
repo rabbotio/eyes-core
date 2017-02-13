@@ -48,3 +48,5 @@ Analyze technologies and web frameworks
 `docker run --rm -t -i rabbotio/wweb https://github.com`
 
 `docker run --rm -t rabbotio/retirejs http://example.com`
+
+`docker run --rm -ti -v $HOME/share:/tmp/share rabbotio/wapiti http://example.com -n 1 -o /tmp/share/output`
